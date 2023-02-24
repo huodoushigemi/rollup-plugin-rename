@@ -12,7 +12,7 @@ npm i --save-dev rollup-plugin-rename
 ## Usage
 
 ```js
-import rename from '@betit/rollup-plugin-rename';
+import rename from 'rollup-plugin-rename';
 
 // Rollup Configuration
 export default {
